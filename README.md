@@ -1,6 +1,47 @@
-# SECP1513-Assignment-1-UTMDigital-visit.-
+# 🏢 Industry Talk: Data Analytics, Infrastructure & SAP
 
-https://github.com/KHALIDW23/SECP1513-Assignment-1-UTMDigital-visit.-/blob/main/UTMDigital%20Day_URL.txt
+<!-- Team and Event Visual -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63d00ea9-5ac2-4391-b7f3-01112c41c79a" width="500" alt="PPG MYTC Industry Talk at UTM">
+  <br>
+  <em>Team 09 with industry speakers from PPG Malaysia Technology Center</em>
+</p>
 
+<!-- Video Access Section -->
+<div align="center">
+  
+  ### 📹 Session Recording
+  [![Watch Industry Talk](https://img.shields.io/badge/🎥_Watch_Full_Video_Recording-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10uy9wS1ISF8gPkR5Xe6Z65RgGSZupZFu/view)
+  
+  
+  
+</div>
+## 💡 Reflection & Takeaways
 
-Industrial Visit Report: UTM Digital Open DayOn October 29, 2025, I attended the UTM Digital Open Day, an insightful event that provided a comprehensive look into the IT industry. A key seminar explored the critical factors determining IT project success and failure, highlighting root causes such as inadequate planning, insufficient leadership, overlooked risks, and communication breakdowns. This underscored the indispensable role of soft skills—including effective teamwork and clear communication—alongside technical prowess.The exhibition hall offered practical exposure to current technologies, including:Hardware Solutions: Reviewing Dell laptops tailored for academic and professional use.Enterprise IT: Engaging with integrated solutions from Crossroad and VST ECS Pericomp.Cybersecurity: Learning about system and data protection frameworks from D-Ron.AI Tools: Exploring the application of Microsoft Copilot as a secure, student-adopted AI assistant.Reflection: This visit profoundly solidified my career interest in the intersection of project management, systems development, and cybersecurity. It served as a clear reminder that sustainable success in technology hinges on the strategic integration of technical expertise with strong leadership and collaborative skills.
+### What I Learned:
+This industry talk provided my first real look into how multinational corporations implement technology at scale. The most impactful revelation was seeing how data analytics, enterprise systems, and cloud infrastructure work as an **integrated ecosystem** rather than separate technologies.
+
+### Key Insights:
+1. **Real-World Complexity**: Industry deals with messy, large-scale data and complex legacy systems that we don't encounter in academic projects
+2. **Business-Technology Connection**: Every technical decision at PPG ties directly to business outcomes and global operations
+3. **Collaboration is Key**: Tools like SAP and Azure aren't just software—they're platforms for international teamwork
+
+### Personal Impact:
+- **Career Clarity**: Confirmed my interest in enterprise IT and data systems
+- **Skill Development**: Identified gaps in my knowledge of cloud architecture and business process understanding
+- **Mindset Shift**: Realized that successful tech professionals need both technical depth and business awareness
+
+### Moving Forward:
+I'm now motivated to:
+- Pursue hands-on experience with enterprise tools
+- Develop stronger collaboration and communication skills
+- Seek opportunities that bridge technical implementation with business strategy
+
+*This session transformed abstract concepts into tangible career pathways.*
+---
+
+## 🎯 Event Overview
+**Date:** November 20, 2025  
+**Organizer:** PPG Malaysia Technology Center (MYTC)  
+**Venue:** UTM Johor Bahru  
+**Team:** Section 04, Group 09  
